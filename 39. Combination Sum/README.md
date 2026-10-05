@@ -19,4 +19,4 @@ Because each recursive call advances to the next candidate, combinations are bui
 
 ## Solution
 
-See [`32. Combination Sum.java`](./32.%20Combination%20Sum.java).
+See [`39. Combination Sum.java`](./39.%20Combination%20Sum.java).
